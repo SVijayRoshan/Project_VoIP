@@ -30,5 +30,4 @@ voip.stop();
 ## Dependencies
 Java VoIP is built using only classes in a default Java installation, and so the only dependencies are Java 1.3+.
 
-## Contributing
-Feel free to submit an issue or a pull request if you can think of anything! This repository is mainly a place to store a few classes I wrote during an assignment, but if it is of use to you, by all means, use it.
+
